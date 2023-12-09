@@ -19,9 +19,36 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,postman&perline=5" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,postman" />
   </a>
 </p>
+
+## I'm working with 
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+</p>
+
+#### Proficient in React with hands-on experience in building responsive and interactive user interfaces.
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+</p>
+
+#### Adept at using Tailwind CSS to streamline frontend development, creating stylish, responsive, and customizable user interfaces through its utility-first approach.
+
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
+</p>
+
+#### Skilled in utilizing Firebase to develop real-time, scalable applications, leveraging its database, authentication, and hosting functionalities to create dynamic and secure web solutions.
 
 ## 👀 Overview 
 <!-- **AsrafulMasum/AsrafulMasum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
