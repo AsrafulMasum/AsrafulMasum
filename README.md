@@ -3,7 +3,7 @@
 ![The San Juan Mountains are beautiful!](https://i.postimg.cc/2jGQxw2x/github-banner.png "San Juan Mountains")
 
 ## 📈 Current Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AsrafulMasum&theme=black-ice&hide_border=true&card_width=700)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AsrafulMasum&theme=black-ice&hide_border=true&card_width=800)](https://git.io/streak-stats)
 
 ## ✨ Overview : 
 <!-- **AsrafulMasum/AsrafulMasum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
