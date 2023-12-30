@@ -7,8 +7,6 @@
 ## 📈 Current Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AsrafulMasum&theme=github-dark-dimmed&hide_border=true&card_width=850)](https://git.io/streak-stats)
 
-![The San Juan Mountains are beautiful!](https://i.postimg.cc/VkPnKcYt/github-wrapped.png "San Juan Mountains")
-
 <!-- ## 📫 How to reach me: -->
 ## 💻 Technologies that I know
 <p align="center">
