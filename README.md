@@ -9,7 +9,7 @@
 
 <!-- ## 📫 How to reach me: -->
 ## 💻 Technologies that I know
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,firebase" />
   </a>
@@ -17,7 +17,7 @@
 
 ## 🌱 I’m exploring
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,postman" />
   </a>
@@ -25,7 +25,7 @@
 
 ## I'm working with 
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
@@ -33,7 +33,7 @@
 
 #### Proficient in React with hands-on experience in building responsive and interactive user interfaces.
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
@@ -42,7 +42,7 @@
 #### Adept at using Tailwind CSS to streamline frontend development, creating stylish, responsive, and customizable user interfaces through its utility-first approach.
 
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=firebase" />
   </a>
