@@ -17,11 +17,11 @@
 
 ## 🌱 I’m exploring
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,jest,postman" />
   </a>
-</p>
+</p> -->
 
 ## I'm working with 
 
