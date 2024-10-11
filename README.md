@@ -11,7 +11,7 @@
 ## 💻 Technologies that I know
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,firebase" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,firebase,nodejs,mongodb,express" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,postman" />
+    <img src="https://skillicons.dev/icons?i=nextjs,jest,postman" />
   </a>
 </p>
 
