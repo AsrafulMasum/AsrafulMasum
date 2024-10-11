@@ -11,7 +11,7 @@
 ## 💻 Technologies that I know
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,firebase,nodejs" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,firebase" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 
 ## I'm working with 
 
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
@@ -33,7 +33,7 @@
 
 #### Proficient in React with hands-on experience in building responsive and interactive user interfaces.
 
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
@@ -42,7 +42,7 @@
 #### Adept at using Tailwind CSS to streamline frontend development, creating stylish, responsive, and customizable user interfaces through its utility-first approach.
 
 
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=firebase" />
   </a>
