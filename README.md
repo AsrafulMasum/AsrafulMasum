@@ -11,17 +11,17 @@
 ## 💻 Technologies that I know
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,firebase,nodejs,mongodb,express" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,firebase" />
   </a>
 </p>
 
 ## 🌱 I’m exploring
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,jest,postman" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,postman" />
   </a>
-</p> -->
+</p>
 
 ## I'm working with 
 
